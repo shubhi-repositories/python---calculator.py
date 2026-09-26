@@ -1,4 +1,4 @@
-# oython calculator.py
+# python calculator.py
 
 A simple command line calculator bulit using python.
 
